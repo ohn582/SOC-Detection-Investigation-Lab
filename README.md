@@ -126,7 +126,7 @@ The PowerShell execution contained characteristics that warranted investigation,
 
 For screenshots, detailed configurations, troubleshooting steps, detection results, and investigation evidence:
 
-**[View Full SOC Lab Report](documentation/SOC-Lab-Full-Report.pdf)**
+**[View Full SOC Lab Report](SOC-Lab-Full-Report.pdf)**
 
 ---
 
